@@ -13,3 +13,4 @@ public class SecondThread extends Thread {
         map.Walk();
     }
 }
+ццц
